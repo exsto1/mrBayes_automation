@@ -102,6 +102,6 @@ if __name__ == "__main__":
 2. Wait for all processes to finish. --- OK?
 3. Compare results to other values of the parameter. --- X
 4. Pick best value and freeze it. --- X
-5. Continue the process untill every parameter will be optimized. --- X  
+5. Continue the process until every parameter will be optimized. --- X  
 """
 
